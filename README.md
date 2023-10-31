@@ -2,7 +2,7 @@
 
 <p align="center">Hey there! I'm a Sr DevOps Engineer who loves tinkering with AWS, Kubernetes, and all things cloud. Let's build something awesome together!</p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrygf" alt="larrygf's trophies" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrygf&column=3" alt="larrygf's trophies" /></a></p>
 
 - 🧠 Expertise in:
 
