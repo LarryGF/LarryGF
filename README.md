@@ -38,6 +38,6 @@
 <!-- ... [Original icons go here] ... -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats-ten-delta-57.vercel.app/api/top-langs?username=larrygf&show_icons=true&locale=en&layout=compact&hide=scss,css,html&exclude_repo=ElectroNuxt-Base,FileSync,Lilipad_2.0" alt="larrygf's top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrygf&show_icons=true&locale=en&layout=compact&hide=scss,css,html&exclude_repo=ElectroNuxt-Base,FileSync,Lilipad_2.0" alt="larrygf's top languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ten-delta-57.vercel.app/api?username=larrygf&show_icons=true&theme=transparent&locale=en" alt="larrygf's GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrygf&show_icons=true&theme=transparent&locale=en" alt="larrygf's GitHub stats" /></p>
